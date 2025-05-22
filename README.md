@@ -6,7 +6,7 @@ This project is designed to demonstrate my practical skills in SQL and Visualiza
 ## 📂 Project Structure
 
 - `Bird_MigrationsSQL_PD.ipynb` – Jupyter Notebook containing all code and visualizations
-- - `README.md` – Project summary and explanation (this file
+-  `README.md` – Project summary and explanation (this file
 - `bird_migration_data.xls` – Dataset from kaggle
 
 ---
