@@ -41,7 +41,7 @@ The dataset was downloaded from [Kaggle](https://www.kaggle.com/datasets/sahirma
 
 ## 📈 Sample Visual Insights
 
-- **Migration distance histogram**: Most routes are between 500–1500 km.
+- **Migration distance histogram**: The mean migration distance is 9,959 km, with a wide distribution ranging from 106 km to 19,971 km, reflecting the diversity of migratory patterns across species.
 - **Boxplots by species**: Some birds migrate significantly farther.
 - **Weather vs distance**: Most migrations occur under moderate conditions.
 
