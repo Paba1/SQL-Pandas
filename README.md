@@ -14,7 +14,7 @@ The dataset was downloaded from [Kaggle](https://www.kaggle.com/datasets/sahirma
 
   ## 📂 Project Structure
 
-- `Bird_MigrtionsSQL_PD.ipynb`: Main notebook with code, SQL queries, and visualizations.
+- `Bird_MigrationsSQL_PD.ipynb`: Main notebook with code, SQL queries, and visualizations.
 - `README.md` – Project summary and explanation (this file)
 - `bird_migration_data.csv`: Dataset used for the analysis.
 
