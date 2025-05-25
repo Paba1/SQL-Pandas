@@ -1,5 +1,5 @@
 
-# 🐦 Bird Migration Analysis with SQL and Data Visualization
+# 🦅 Bird Migration Analysis with SQL and Data Visualization
 
 This project showcases my practical skills in working with relational data using SQL and visualizing insights using Python-based tools.
 The dataset was downloaded from [Kaggle](https://www.kaggle.com/datasets/sahirmaharajj/bird-migration-dataset-data-visualization-eda)
