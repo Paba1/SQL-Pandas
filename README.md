@@ -57,8 +57,8 @@ During the analysis of migration counts by start and end months, it was observed
 ## 🗒️ Notes
 
 - This project was created as a way to **demonstrate my SQL knowledge** after completing the free interactive course [SQLBolt](https://sqlbolt.com) and expanding on that foundation through self-study.
-- I used [SQLiteOnline](https://sqliteonline.com) as a lightweight SQL compiler to quickly visualize and test queries during development.
-- 🤝 While the core work was my own, I leveraged resources like **Stack Overflow** and **AI-based tools (e.g., ChatGPT)** to support learning and troubleshooting — reflecting how modern analysts work collaboratively and iteratively in real-world scenarios.
+- I used [SQLiteOnline](https://sqliteonline.com) as a lightweight SQL environment to quickly prototype and test queries before integrating them into the Python workflow.
+- While the core work was my own, I leveraged resources like **Stack Overflow** and **AI-based tools (e.g., ChatGPT)** to support learning and troubleshooting — reflecting how modern analysts work collaboratively and iteratively in real-world scenarios.
 
 ---
 
